@@ -1,0 +1,54 @@
+.body{
+    background-color: black;
+}
+.wrapper{
+    width: 500px;
+   background-color: rgb(214, 205, 205);
+    flex-wrap: wrap;
+    margin-left: 30%;    
+}
+.header{
+   display: flex; 
+   margin: 10px;
+}
+.fas{
+    padding-top: 20px;
+}
+.fotoperfil{
+    flex-grow: 1;
+    width:30px;
+    height:30px;
+    border-radius:15px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.location{
+    font-size: 12px;
+}
+.user{
+    flex-grow: 3;
+    line-height: 5px;
+}
+
+.icon{
+    display: flex;
+    margin: 5px;
+}
+
+.far{ 
+    width: 25px;
+}
+.content{
+    margin: 5px;
+}
+.fav{
+    margin-left: 400px;}
+
+.footer{
+   margin:5px ;
+   padding: 1px;
+} 
+.margen{
+    margin: 0px;
+}
